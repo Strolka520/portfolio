@@ -8,13 +8,13 @@
 			}
 		},
 		"color":{
-			"value":"#119e97"
+			"value":"#7df76a"
 		},
 		"shape":{
 			"type":"circle",
 			"stroke":{
 				"width":1,
-				"color": "#000080"
+				"color": "#32ff00"
 			},
 			"image":{
 				"src":"http://icons.iconarchive.com/icons/custom-icon-design/silky-line-user/512/user-icon.png"
